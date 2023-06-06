@@ -1,0 +1,13 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background: rgb(4, 213, 255);
+  border: 6px solid black;
+}
+.App
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
